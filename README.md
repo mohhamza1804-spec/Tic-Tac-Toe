@@ -27,7 +27,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 This project was built to practice DOM manipulation, game logic, and front-end development fundamentals.
 
 ## 🎮 Live Demo
-You can play the game directly in your browser here: [Play Rock Paper Scissors](https://mohhamza1804-spec.github.io/Rock-Paper-Scissor/)
+You can play the game directly in your browser here: [Play Rock Paper Scissors](https://mohhamza1804-spec.github.io/Tic-Tac-Toe/)
 
 ## Author
 
